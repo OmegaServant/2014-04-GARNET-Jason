@@ -1,3 +1,4 @@
+
 Author: Jason
 Title: "The best journal ever"
 
@@ -7,3 +8,4 @@ Introduction:
 Data: To be collected in the future
 Analysis:
 Conclusion: this is rubbish
+I agree
