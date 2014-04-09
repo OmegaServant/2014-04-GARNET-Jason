@@ -1,9 +1,9 @@
 Author: Jason
-Title:
+Title: "The best journal ever"
 
 Abstract:
 
 Introduction:
-Data:
+Data: To be collected in the future
 Analysis:
 Conclusion:
